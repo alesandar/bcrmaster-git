@@ -1,0 +1,8 @@
+bcrmaster/
+
+src/
+pkg/
+
+*.pkg.tar.gz
+*.pkg.tar.xz
+*.pkg.tar.zst
